@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laX -m -F 
+ls -map|sort -d 
